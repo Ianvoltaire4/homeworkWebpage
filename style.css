@@ -1,0 +1,16 @@
+h1{
+    color:rgb(232, 84, 155);
+    text-decoration: underline;
+    text-align: center;
+
+}
+body{
+    background-color:rgb(192, 192, 192);
+}
+img{
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;
+    padding: 2px;
+    margin: 2px;
+}
